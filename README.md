@@ -49,11 +49,11 @@ He diseñado y gestionado **CactusFire**, una popular aplicación integrada en D
 |              MEDIA             	|       NOMBRE       	|
 |:----------------------------:	|:-------------------:	|
 | 📧  	| [hola@manelcomiche.com](mailto:hola@manelcomiche.com)	|
-| Discord 	| [Soporte CactusFire](https://discord.cactusfire.xyz)	|
-| ![Twitter](https://i.imgur.com/HeZ0zJn.png) 	| [LHCLYT en Twitter](https://twitter.com/manelcomiche/)	|
-| ![Twitter](https://i.imgur.com/HeZ0zJn.png) 	| [CactusFire en Twitter](https://twitter.com/CactusFire/)	|
-| ![Instagram](https://i.imgur.com/tu01NLm.png) 	| [CactusFire en Instagram](https://www.instagram.com/cactusfirebot/)	|
-| ![TikTok](https://i.imgur.com/MK4zdoh.png)	| [CactusFire en TikTok](https://www.tiktok.com/@cactusfirebot)	|
+| 💬 	| [Soporte CactusFire](https://discord.cactusfire.xyz)	|
+| 🐦 	| [LHCLYT en Twitter](https://twitter.com/manelcomiche/)	|
+| 🐦 	| [CactusFire en Twitter](https://twitter.com/CactusFire/)	|
+| 📷 	| [CactusFire en Instagram](https://www.instagram.com/cactusfirebot/)	|
+| 🎥	| [CactusFire en TikTok](https://www.tiktok.com/@cactusfirebot)	|
 
 ---
 
