@@ -50,7 +50,7 @@ He diseñado y gestionado **CactusFire**, una popular aplicación integrada en D
 |:----------------------------:	|:-------------------:	|
 | 📧  	| [hola@manelcomiche.com](mailto:hola@manelcomiche.com)	|
 | 💬 	| [Soporte CactusFire](https://discord.cactusfire.xyz)	|
-| 🐦 	| [LHCLYT en Twitter](https://twitter.com/manelcomiche/)	|
+| 🐦 	| [Manel Comiche en Twitter](https://twitter.com/manelcomiche/)	|
 | 🐦 	| [CactusFire en Twitter](https://twitter.com/CactusFire/)	|
 | 📷 	| [CactusFire en Instagram](https://www.instagram.com/cactusfirebot/)	|
 | 🎥	| [CactusFire en TikTok](https://www.tiktok.com/@cactusfirebot)	|
