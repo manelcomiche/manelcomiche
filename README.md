@@ -29,6 +29,8 @@ He diseñado y gestionado **CactusFire**, una popular aplicación integrada en D
 ## ⤳ 📝 Skills:
 ### ⤳ Tecnologías de Backend
 [![Node.js](https://skillicons.dev/icons?i=nodejs&perline=1)](https://nodejs.org)
+[![JavaScript](https://skillicons.dev/icons?i=js&perline=1)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Typescript](https://skillicons.dev/icons?i=typescript&perline=1)](https://www.typescriptlang.org/)
 [![Express](https://skillicons.dev/icons?i=express&perline=1)](https://expressjs.com)
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres&perline=1)](https://www.postgresql.org)
 [![MySQL](https://skillicons.dev/icons?i=mysql&perline=1)](https://www.mysql.com)
@@ -42,7 +44,6 @@ He diseñado y gestionado **CactusFire**, una popular aplicación integrada en D
 ### ⤳ Tecnologías de Frontend
 [![HTML](https://skillicons.dev/icons?i=html&perline=1)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://skillicons.dev/icons?i=css&perline=1)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://skillicons.dev/icons?i=js&perline=1)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![React](https://skillicons.dev/icons?i=react&perline=1)](https://react.dev)
 [![Tailwind CSS](https://skillicons.dev/icons?i=tailwind&perline=1)](https://tailwindcss.com)
 [![SVG](https://skillicons.dev/icons?i=svg&perline=1)](https://developer.mozilla.org/en-US/docs/Web/SVG)
